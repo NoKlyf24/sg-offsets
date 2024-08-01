@@ -1,0 +1,10 @@
+{
+    "sg_version": "0.76.1",
+    "offsets": {
+        "ownsAnimation": 43927392,
+        "ownsEmote": 43931840,
+        "ownsFootstep": 43936288,
+        "ownsSkin": 43940736,
+        "ownsAbility": 43880400
+    }
+}
