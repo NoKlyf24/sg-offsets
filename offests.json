@@ -2,10 +2,10 @@
     "sg_version": "0.76.1",
     "sg_hash": "cf270edc59dafa6d10c184e07be53d4c27c9918bdcbfdbb84dfe0e68d1dbb082",
     "offsets": {
-        "ownsAnimation": "0x29DF860",
-        "ownsEmote": "0x29E1740",
-        "ownsFootstep": "0x29E39E0",
-        "ownsSkin": "0x29E5AC0",
-        "ownsAbility": "0x29DD250"
+        "ownsAnimation": 43907168,
+        "ownsEmote": 43915072,
+        "ownsFootstep": 43923936,
+        "ownsSkin": 43932352,
+        "ownsAbility": 43897424
     }
 }
