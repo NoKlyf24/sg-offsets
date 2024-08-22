@@ -1,6 +1,6 @@
 {
-    "sg_version": "0.76.1",
-    "sg_hash": "cf270edc59dafa6d10c184e07be53d4c27c9918bdcbfdbb84dfe0e68d1dbb082",
+    "sg_version": "0.76.2",
+    "sg_hash": "28c8f1ce9a0deeb114ea8826ce5a7345802cf6b1d151e6d080d57c020bbcc6cd",
     "fs_message": "Note: Emotes and abilities won't work ingame and can cause you to be kicked",
     "offsets": {
         "ownsAnimation": 43907168,
