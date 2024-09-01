@@ -1,12 +1,12 @@
 {
-    "sg_version": "0.76.2",
-    "sg_hash": "28c8f1ce9a0deeb114ea8826ce5a7345802cf6b1d151e6d080d57c020bbcc6cd",
+    "sg_version": "0.77",
+    "sg_hash": "bc8f87d48b7e36aeaf6bd31b46e479f3c0b1d0d0863e17f650552462aa66c969",
     "fs_message": "Note: Emotes and abilities won't work ingame and can cause you to be kicked",
     "offsets": {
-        "ownsAnimation": 43907168,
-        "ownsEmote": 43915072,
-        "ownsFootstep": 43923936,
-        "ownsSkin": 43932352,
-        "ownsAbility": 43897424
+        "ownsAnimation": 45411136,
+        "ownsEmote": 45419040,
+        "ownsFootstep": 45427904,
+        "ownsSkin": 45436320,
+        "ownsAbility": 45401360
     }
 }
