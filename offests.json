@@ -3,10 +3,10 @@
     "sg_hash": "cf270edc59dafa6d10c184e07be53d4c27c9918bdcbfdbb84dfe0e68d1dbb082",
     "fs_message": "Note: Emotes and abilities won't work ingame and can cause you to be kicked",
     "offsets": {
-        "ownsAnimation": 45411136,
-        "ownsEmote": 45419040,
-        "ownsFootstep": 45427904,
-        "ownsSkin": 45436320,
-        "ownsAbility": 45401360
+        "ownsAnimation": 48398080,
+        "ownsEmote": 48405872,
+        "ownsFootstep": 48414528,
+        "ownsSkin": 48422384,
+        "ownsAbility": 48387904
     }
 }
